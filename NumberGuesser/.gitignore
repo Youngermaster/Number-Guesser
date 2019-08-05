@@ -1,0 +1,12 @@
+# Compiled binaries
+obj/
+
+# Visual C# Project files
+*.csproj
+
+# Debug folder
+bin/Debug
+
+# Release unnecesary files for GitHub
+*.exe.config
+*.pdb
